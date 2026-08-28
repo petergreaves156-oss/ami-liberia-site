@@ -29,15 +29,15 @@ import {
 } from "lucide-react";
 
 const assets = {
-  mark: "/manus-storage/ami-mark_3ca64a91.png",
-  hero: "/manus-storage/ami-community-hero_9461aaa5.jpg",
-  building: "/manus-storage/ami-building-2_b4463239.jpg",
-  profile: "/manus-storage/ami-profile_e855f6f7.jpg",
-  tagline: "/manus-storage/ami-tagline_a82ce86e.jpg",
-  reels: "/manus-storage/ami-reels_654833b4.jpg",
-  community: "/manus-storage/ami-community-hero_9461aaa5.jpg",
-  clinical: "/manus-storage/ami-clinical-care_42439759.jpg",
-  outreach: "/manus-storage/ami-outreach_38082788.jpg",
+  mark: "/assets/ami-mark.png",
+  hero: "/assets/ami-community-hero.jpg",
+  building: "/assets/ami-building-2.jpg",
+  profile: "/assets/ami-profile.jpg",
+  tagline: "/assets/ami-tagline.jpg",
+  reels: "/assets/ami-reels.jpg",
+  community: "/assets/ami-community-hero.jpg",
+  clinical: "/assets/ami-clinical-care.jpg",
+  outreach: "/assets/ami-outreach.jpg",
 };
 
 const services: Array<{
